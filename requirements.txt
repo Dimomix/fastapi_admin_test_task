@@ -1,0 +1,11 @@
+python = "^3.11"
+fastapi = "^0.110"
+uvicorn = "^0.30"
+sqlalchemy = "^2.0"
+aiosqlite = "^0.19"
+passlib = "^1.7"
+python-jose = "^3.3"
+pydantic = "^2.6"
+pydantic-settings = "^2.2"
+sqladmin = "^0.16"
+email-validator = "^2.1
